@@ -3,7 +3,7 @@
 <p align="center">
 
 
-<a href="https://github.com/zim-bot"><img align="center" src="https://github-cardname.caliph.my.id/api?name=zim-bot&description=Hi,%20I%20am%20Drips(blennie).%20Just%20give%20a%20girl🤣%20I%20wanna%20program%20her,%20please%20Support%20Me&image=https://i.ibb.co/kJqXt6T/1678194866669.jpg&backgroundColor=%23ecf0f1&instagram=@ashy45&github=zim-bot&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://youtube.com/@zim-bot"/></a>
+<a href="https://github.com/zim-bot"><img align="center" src="https://github-cardname.caliph.my.id/api?name=zim-bot&description=Hi,%20I%20am%20Drips(blennie).%20Just%20give%20me%20a%20girl🤣%20I%20wanna%20program%20her,%20please%20Support%20Me&image=https://i.ibb.co/kJqXt6T/1678194866669.jpg&backgroundColor=%23ecf0f1&instagram=@ashy45&github=zim-bot&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://youtube.com/@zim-bot"/></a>
 </p>
 
 
