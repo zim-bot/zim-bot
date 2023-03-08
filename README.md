@@ -1,7 +1,7 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Warp&size=25&duration=4000&pause=1000&color=16F776&background=000000&width=250&height=40&lines=Hi+Dad+it's+me+Drips;Blessed+Tuna+)](https://git.io/typing-svg)]
+<a href=https://readme-typing-svg.demolab.com?font=Tilt+Warp&size=25&duration=4000&pause=1000&color=16F776&background=000000&width=250&height=40&lines=Hi+Dad+it's+me+Drips;Blessed+Tuna" alt="Typing SVG" /></a>    
 <p align="center">
-<a href="https://github.com/zim-bot"><img align="center" src="https://github-cardname.caliph.my.id/api?name=zim-bot&description=Hi,%20I%20am%20Drips(blennie).%20Just%20give%20a%20girl🤣%20I%20wanna%20program%20her,%20please%20Support%20Me&image=https://srv.neoxr.tk/f/U6oJ8l.jpg&backgroundColor=%23ecf0f1&instagram=@ashy45&github=zim-bot&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://youtube.com/@zim-bot"/></a>
+<a href="https://github.com/zim-bot"><img align="center" src="https://github-cardname.caliph.my.id/api?name=zim-bot&description=Hi,%20I%20am%20Drips(blennie).%20Just%20give%20a%20girl🤣%20I%20wanna%20program%20her,%20please%20Support%20Me&image=https://i.ibb.co/kJqXt6T/1678194866669.jpg&backgroundColor=%23ecf0f1&instagram=@ashy45&github=zim-bot&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://youtube.com/@zim-bot"/></a>
 </p>
 
 
@@ -32,7 +32,7 @@
 -->
 ---
 ```
-const riy = () => {
+const Drips = () => {
   return {
     pronouns: "He" | "Him",
     country: "Zimbabwe",
