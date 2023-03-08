@@ -1,5 +1,5 @@
 <div align="center">
-<a href=https://readme-typing-svg.demolab.com?font=Tilt+Warp&size=25&duration=4000&pause=1000&color=16F776&background=000000&width=250&height=40&lines=Hi+Dad+it's+me+Drips;Blessed+Tuna" alt="Typing SVG" /></a>    
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Warp&size=25&duration=4000&pause=1000&color=16F776&background=000000&width=250&height=40&lines=Hi+Dad+it's+me+Drips;Blessed+Tuna" alt="Typing SVG" /></a>    
 <p align="center">
 <a href="https://github.com/zim-bot"><img align="center" src="https://github-cardname.caliph.my.id/api?name=zim-bot&description=Hi,%20I%20am%20Drips(blennie).%20Just%20give%20a%20girl🤣%20I%20wanna%20program%20her,%20please%20Support%20Me&image=https://i.ibb.co/kJqXt6T/1678194866669.jpg&backgroundColor=%23ecf0f1&instagram=@ashy45&github=zim-bot&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://youtube.com/@zim-bot"/></a>
 </p>
@@ -68,10 +68,10 @@ const Drips = () => {
 
 ## WHATSAPP 
 <p align="center">
-<a href="https://dripsofc.tech" target="blank"><img align="center" height="22px" src="./SocialLogo/Web.png" alt="Drips blennie" /></a>   
-<a href="https://api.whatsapp.com/send?phone=263718736741&text=Oooh%20Drips%20its%20me" target="blank"><img align="center" height="22px" src="./SocialLogo/WhatsApp.png" alt="Drips Blennie"/></a>
-<a href="https://telegram.me/blessedtuna" target="blank"><img align="center" height="22px" src="./SocialLogo/Telegram.png" alt="Drips Blennie" /></a>   
-<a href="mailto:Blessed Tuna (Drips)?&subject=WORKING TOGETHER&body=reinhardtuna@gmail.com" target="blank"><img align="center" height="22px" src="./SocialLogo/Gmail.png" alt="Drips Blennie" /></a>   
+<a href="https://dripsofc.tech" target="blank"><img align="center" height="22px" src="./drips/Web.png" alt="Drips blennie" /></a>   
+<a href="https://api.whatsapp.com/send?phone=263718736741&text=Oooh%20Drips%20its%20me" target="blank"><img align="center" height="22px" src="./drips/WhatsApp.png" alt="Drips Blennie"/></a>
+<a href="https://telegram.me/blessedtuna" target="blank"><img align="center" height="22px" src="./drips/Telegram.png" alt="Drips Blennie" /></a>   
+<a href="mailto:Blessed Tuna (Drips)?&subject=WORKING TOGETHER&body=reinhardtuna@gmail.com" target="blank"><img align="center" height="22px" src="./drips/Gmail.png" alt="Drips Blennie" /></a>   
 </p>
 
 ---
@@ -79,12 +79,6 @@ const Drips = () => {
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=zim-bot)
 
 </details>
-
-
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/zim-bot?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=ZimbabweStandardTime%2FIstanbul)
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=zim-bot&theme=highcontrast&repo=zim-bot)](https://github.com/zim-bot)
 
